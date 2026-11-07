@@ -13,10 +13,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=16&duration=3000&pause=1000&color=ED78AA&center=true&vCenter=true&width=450&lines=Software+Engineer+since+2018;Building+thoughtful+digital+experiences;Always+learning%2C+always+creating;Code%2C+coffee+%26+a+little+sparkle+%E2%9C%A8" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ED78AA?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clau-prado/)
-[![GitHub](https://img.shields.io/badge/GITHUB-493347?style=flat-square&logo=github&logoColor=white)](https://github.com/claupimentel)
-[![Email](https://img.shields.io/badge/EMAIL-D9A0CE?style=flat-square&logo=gmail&logoColor=white)](mailto:claudiaprado.dev@gmail.com)
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F7B8D0&height=2&section=header" width="70%" />
 
 </div>
