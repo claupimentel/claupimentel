@@ -127,10 +127,6 @@ I believe great engineers don't just build software — they also help people gr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=claupimentel&show_icons=true&hide_border=true&bg_color=FFF5F9&title_color=ED78AA&icon_color=D9A0CE&text_color=493347&ring_color=ED78AA" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claupimentel&layout=compact&hide_border=true&bg_color=FFF5F9&title_color=ED78AA&text_color=493347" />
-
 <img src="https://streak-stats.demolab.com?user=claupimentel&hide_border=true&background=FFF5F9&ring=ED78AA&fire=D9A0CE&currStreakLabel=493347&sideLabels=493347&currStreakNum=ED78AA&sideNums=ED78AA&dates=9B8494" />
 
 </div>
