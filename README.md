@@ -112,12 +112,6 @@ When I'm not coding, you can probably find me:
 - Learning something completely unrelated to my current projects.
 - Finding new ways to connect technology, creativity and education.
 
-## 💌 LET'S CONNECT
-
-Always happy to connect with fellow developers, exchange ideas, discuss software engineering or explore interesting opportunities.
-
-Feel free to reach out!
-
 ---
 
 <div align="center">
