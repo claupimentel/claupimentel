@@ -83,34 +83,6 @@ I enjoy understanding how things work, solving complex problems, and turning ide
 | 🤖 AI & Development | AI coding assistants, MCPs, custom skills and developer workflows |
 | 🎓 Teaching & Mentoring | Sharing knowledge, teaching programming and helping developers grow |
 
-## 💎 FEATURED PROJECTS
-
-A few things I've been building and exploring:
-
-### ✧ Project One
-
-A short description of the problem, the solution and the technologies used.
-
-`React` `TypeScript` `Node.js`
-
-[Repository](PROJECT_URL)
-
-### ✧ Project Two
-
-A short description highlighting architecture, interesting challenges or technical decisions.
-
-`Java` `Spring Boot` `PostgreSQL`
-
-[Repository](PROJECT_URL)
-
-## 🌱 CURRENTLY EXPLORING
-
-- Backend development and API design
-- Java & Spring Boot
-- Database modeling and SQL
-- System design and distributed systems
-- AI-assisted software development
-
 ## 🎓 EDUCATION & KNOWLEDGE SHARING
 
 **MSc in Applied Computer Science**  
